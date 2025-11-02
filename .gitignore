@@ -4,3 +4,5 @@
 
 *.csv
 *.pkl
+
+.idea/recommendation-engine.iml
